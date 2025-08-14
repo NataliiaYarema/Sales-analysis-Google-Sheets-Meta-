@@ -79,6 +79,6 @@ The dashboard visualizes sales trends, category performance, top customers, top 
 ---
 
 ## 📌 How to Run
-1. Open the provided [Google Sheets file]().
+1. Open the provided [Google Sheets file](https://docs.google.com/spreadsheets/d/17T1OTtq8y5nJHrnx0OEXIMmZ9RTn-bmEKgx_CIbl9wM/edit?usp=sharing).
 2. Navigate to the dashboard tab for interactive analysis.  
 3. Use filter selectors to explore specific product categories, customers, or date ranges.  
